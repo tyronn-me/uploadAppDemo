@@ -1,0 +1,2 @@
+[18-Jun-2018 13:53:02 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/thebannermen/public_html/bannerpreview/banner-preview-v1/application/models/User.php on line 15
+[27-Jun-2018 12:37:36 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/thebannermen/public_html/bannerpreview/banner-preview-v1/application/views/users.php on line 89
